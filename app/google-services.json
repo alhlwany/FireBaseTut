@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "238763246859",
+    "firebase_url": "https://fir-tut-51087.firebaseio.com",
+    "project_id": "fir-tut-51087",
+    "storage_bucket": "fir-tut-51087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238763246859:android:0fdf89e8d6752074a40e0e",
+        "android_client_info": {
+          "package_name": "com.tecnopro.firebasetut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238763246859-i7j5rql4odt2vmdgnfm9q1bla0rh12q8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecnopro.firebasetut",
+            "certificate_hash": "e5a4c39b5ffa1ce07da0e484044ea7fdc8eeb32b"
+          }
+        },
+        {
+          "client_id": "238763246859-d8q13epln3ntcf4rrgub8j4aq0o3oh7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9ZcRnL-8W0OQi_d6YwNFxIg1kLSxju8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238763246859-d8q13epln3ntcf4rrgub8j4aq0o3oh7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
